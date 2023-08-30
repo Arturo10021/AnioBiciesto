@@ -12,3 +12,7 @@ npm test
 
 Ejecutar pruebas de unidad solo una vez:
 npm run test-once
+
+
+git remote set-url origin https://github.com/tu_usuario/tu_repositorio.git
+
